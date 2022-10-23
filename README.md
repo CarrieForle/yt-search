@@ -1,2 +1,2 @@
 # YT Search
-Searching on YouTube but with Java GUI (also with messy code lol)
+Searching on YouTube but with Java Swing (also with messy code lol).
